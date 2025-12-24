@@ -12,5 +12,10 @@ Input:
 Output
    simple interest = p*t*r
 ```
+## Trademark
+
+"github-final-project" and the github-final-project logo are trademarks of Anchal Bhatia or Neosalpha.
+This project is not affiliated with or endorsed by the upstream project.
+
 
 _© 2022 XYZ, Inc._
